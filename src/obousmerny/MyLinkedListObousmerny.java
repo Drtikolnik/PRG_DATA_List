@@ -142,6 +142,7 @@ public class MyLinkedListObousmerny {
     }
 
 //Přidej píseň na určitou pozici
+    //nefunguje uplne
 public void addToPosition(int position, String nazev, String interpret, double cas) {
     Song s = new Song(nazev, interpret, cas);
     obousmerny.Node newNode = new obousmerny.Node(s);
