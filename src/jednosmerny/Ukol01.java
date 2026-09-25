@@ -1,3 +1,5 @@
+package jednosmerny;
+
 public class Ukol01 {
 
     public static void main(String[] args) {
@@ -12,7 +14,7 @@ public class Ukol01 {
         list.removeFirst();
 
         list.removeFromPosition(1);
-        list.addToPosition(1, "mrdko mam byt druhej", 4);
+        list.addToPosition(1, "kk mam byt druhej", 4);
 
         list.removeFromPosition(3);
 

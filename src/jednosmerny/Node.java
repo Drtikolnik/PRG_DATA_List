@@ -1,3 +1,5 @@
+package jednosmerny;
+
 class Node {
 
     private Uloha data; // uložená hodnota

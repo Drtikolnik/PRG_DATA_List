@@ -1,3 +1,5 @@
+package jednosmerny;
+
 public class Uloha {
     private String nazev;
     private int priorita;

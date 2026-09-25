@@ -1,3 +1,5 @@
+package jednosmerny;
+
 class MyLinkedList {
     private Node head; // začátek seznamu
     // přidání na konec seznamu
